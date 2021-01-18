@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Threading;
 public class deadlockk
-{
+{/// <summary>
+/// 
+/// </summary>
     static object locker1 = new object();
     static object locker2 = new object();
     static void aa()
     {
+        
          lock (locker1)         
         {
             try
