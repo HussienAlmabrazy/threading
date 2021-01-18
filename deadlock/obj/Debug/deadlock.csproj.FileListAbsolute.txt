@@ -1,0 +1,12 @@
+E:\hussincode\deadlock\deadlock\bin\Debug\deadlock.exe.config
+E:\hussincode\deadlock\deadlock\bin\Debug\deadlock.exe
+E:\hussincode\deadlock\deadlock\bin\Debug\deadlock.pdb
+E:\hussincode\deadlock\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache
+E:\hussincode\deadlock\deadlock\obj\Debug\deadlock.exe
+E:\hussincode\deadlock\deadlock\obj\Debug\deadlock.pdb
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\bin\Debug\deadlock.exe.config
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\obj\Debug\deadlock.exe
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\obj\Debug\deadlock.pdb
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\bin\Debug\deadlock.exe
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\bin\Debug\deadlock.pdb
+C:\Users\HUSSIEN\Desktop\deadlock\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache
